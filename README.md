@@ -1,1 +1,1 @@
-# IshaantV.github.io
+theta_fetcher.py requires that you have an account registered with thetadata for the javascript to retrieve the data from their servers and produce a graph, sometimes the graph plotting works and sometimes it doesn't, I'm currently looking into this right now.
